@@ -1,1 +1,1 @@
-# versiculoDoDia
+# Versículo do Dia
