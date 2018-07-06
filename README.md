@@ -6,3 +6,5 @@ Criar meu aplicativo em React Native que exibe um versículo da bíblia escolhid
 ## Recursos utilizados
 Utilizei uma base de dados pronta em json onde estão armazenados todos os versículos da biblia. Ela está disponível em:
 https://github.com/thiagobodruk/biblia
+
+![alt text](https://github.com/matheusgoncalves56/versiculoDoDia/blob/master/src/assets/logo.jpg)
