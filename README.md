@@ -3,8 +3,10 @@
 ## Objetivo do projeto
 Criar meu aplicativo em React Native que exibe um versículo da bíblia escolhido aleatoriamente
 
-## Recursos utilizados
-Utilizei uma base de dados pronta em json onde estão armazenados todos os versículos da biblia. Ela está disponível em:
+## Créditos
+Base de dados da bíblia:
 https://github.com/thiagobodruk/biblia
+
+Desenvolvido por: Matheus Gonçalves Oliveira (matheusgoncalves56@gmail.com)
 
 ![alt text](https://github.com/matheusgoncalves56/versiculoDoDia/blob/master/src/assets/logo.jpg)
