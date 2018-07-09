@@ -3,7 +3,7 @@
 
 ## Objetivo do projeto
 Criar meu primeiro aplicativo em React Native que exibe um versículo da bíblia escolhido aleatoriamente.
-Nesse aplicativo pratiquei os seguintes tópicos: Eestilos, alinhamentos, adicionar imagens e customizar botões.
+Nesse aplicativo pratiquei os seguintes tópicos: Estilos, alinhamentos, adicionar imagens e customizar botões.
 
 ## O APP
 ![app](https://github.com/matheusgoncalves56/versiculoDoDia/blob/master/src/assets/app.gif)
